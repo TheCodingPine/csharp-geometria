@@ -2,6 +2,7 @@
 using csharp_geometria;
 
 /*
+ * 
 2. Poi, nel vostro programma principale (Program.cs) chiedete all’utente di inserire, da console,
 i valori di base e di altezza con cui istanziare un nuovo Rettangolo.
 Dopo averlo istanziato, stampate a video il perimetro e l’area.
